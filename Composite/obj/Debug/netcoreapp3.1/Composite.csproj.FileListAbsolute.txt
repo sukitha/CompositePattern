@@ -1,0 +1,13 @@
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\Learn\Source\DesignPatterns\Patterns\CompositeDesignPattern\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
