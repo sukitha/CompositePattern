@@ -6,7 +6,8 @@ namespace Composite
 {
     public class XDocument : IXElement
     {
-        private List<IXElement> childrens { get; }
+        private readonly List<IXElement> childrens;
+
         public string XName { get; }
         public string Comment { get;  }
         public XDocument(string _comment, params IXElement[] items) {

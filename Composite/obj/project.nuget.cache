@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fJgE1lk9tfSFRTajX38+KA6WnaXHFztUfAAGPkEzKIbw370l2YgUWdPEAp21SlFUt93aq6ST11bMi7A3XqGKQ==",
+  "dgSpecHash": "agzvBnLeYK/bo+VDjp/OvcZ1A8In7JAeJGhApImU0i7fr/D+++dBpRYenL7dgiwH3G+QR+uvegbQB9m9l27rVA==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\Composite.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

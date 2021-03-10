@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\Composite.csproj": {}
+    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\Composite.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\Composite.csproj": {
+    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\Composite.csproj",
+        "projectUniqueName": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\Composite.csproj",
         "projectName": "Composite",
-        "projectPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\Composite.csproj",
+        "projectPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\Composite.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositeDesignPattern\\Composite\\Composite\\obj\\",
+        "outputPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\CompositePattern\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

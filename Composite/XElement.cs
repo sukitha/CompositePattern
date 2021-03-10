@@ -8,10 +8,8 @@ namespace Composite
     {
         public string XValue { get; }
 
-        private List<IXElement> childrens
-        {
-            get;
-        }
+        private readonly List<IXElement> childrens;
+
 
         public string XName { get; }
 
